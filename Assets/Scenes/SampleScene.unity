@@ -238,6 +238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5.25
   rb: {fileID: 0}
+  manager: {fileID: 0}
 --- !u!50 &257201969
 Rigidbody2D:
   serializedVersion: 4
@@ -1346,7 +1347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   up: 273
   down: 274
-  speed: 0.0001
+  speed: 3
 --- !u!1 &2035716523
 GameObject:
   m_ObjectHideFlags: 0
